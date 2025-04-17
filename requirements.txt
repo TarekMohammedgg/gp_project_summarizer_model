@@ -1,0 +1,10 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+nest-asyncio==1.6.0
+pyngrok==6.0.0
+transformers==4.39.3
+torch==2.2.2
+accelerate==0.26.0
+bitsandbytes==0.42.0
+peft==0.10.0
+pydantic==2.6.4
