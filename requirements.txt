@@ -4,7 +4,6 @@ nest-asyncio==1.6.0
 pyngrok==7.2.4
 transformers==4.51.3
 torch==2.6.0
-accelerate==0.26.0
 bitsandbytes==0.45.5
 peft==0.15.2
 pydantic==2.11.3
